@@ -36,6 +36,3 @@ AI Dashboard Generator is a powerful tool that makes it easy to generate insight
 
 The AI Dashboard Generator is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.
 
-## Contact
-
-If you have any questions or feedback about the AI Dashboard Generator, please feel free to contact us at info@leniolabs.com. We'd love to hear from you!
